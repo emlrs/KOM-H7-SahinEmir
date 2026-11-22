@@ -1,0 +1,32 @@
+# Unity
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Mm]emoryCaptures/
+[Rr]ecordings/
+# Build: only the D Windows build is submitted
+/[Bb]uilds/
+*_BackUpThisFolder_ButDontShipItWithYourGame/
+*_BurstDebugInformation_DoNotShip/
+# IDE / generated
+.vs/
+.vscode/
+.idea/
+*.csproj
+*.sln
+*.slnx
+*.user
+*.pidb
+*.booproj
+*.unityproj
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+# Unity Version Control / OS
+.plastic/
+ignore.conf
+.DS_Store
+Thumbs.db
